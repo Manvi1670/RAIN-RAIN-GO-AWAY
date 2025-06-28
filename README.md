@@ -4,7 +4,7 @@ This Project is about designing an automated rain detection and Wiper control me
 
 
 ## PRACTICAL IMPLEMENTATION VIDEOS :
-- [Motor Running with Initial PWM](https://drive.google.com/file/d/FILE_ID/view)
+- [Motor Running with Initial PWM](https://drive.google.com/file/d/1VeCnC86Ulilqx5oqtywx9cHZFTGeJe14/view?usp=drive_link)
 - [Final PWM-Controlled Motor](https://drive.google.com/file/d/FILE_ID/view)
 - [Servo and LED Circuit](https://drive.google.com/file/d/FILE_ID/view)
 
